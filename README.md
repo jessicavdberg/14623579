@@ -58,8 +58,8 @@ gc() # garbage collection - It can be useful to call gc after a large object has
 ```
 
     ##          used (Mb) gc trigger (Mb) max used (Mb)
-    ## Ncells 400304 21.4     824401 44.1   638648 34.2
-    ## Vcells 728778  5.6    8388608 64.0  1631995 12.5
+    ## Ncells 400302 21.4     824395 44.1   638648 34.2
+    ## Vcells 728748  5.6    8388608 64.0  1631995 12.5
 
 ``` r
 library(pacman)
